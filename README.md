@@ -22,7 +22,7 @@ or
 ```
 python infer_movie_dialog_sw_torch_palm.py
 ```
-can be run to perform inference of the trained model. 
+can be run to perform inference of the trained model. Use the corresponding 'train_movie_dialog_' and 'infer_movie_dialog_' scripts to train the model or to perform inference respectively. The PaLM Transformer model is added as well.
 
 Examples of the inferred model for Tensorflow-2 are:
 ```
